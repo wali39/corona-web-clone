@@ -1,0 +1,80 @@
+
+
+
+/* .............................. 
+           .............................. 
+           Start doctor contact section  
+            .............................. 
+           ............................... */
+
+.link1 {
+    background-image: linear-gradient(to right, #27a8e1, #5842ae);
+    padding: 10px 40px;
+    color: white;
+    margin-right: 10px;
+}
+
+.solaiman {
+    font-family: "SolaimanLipi", sans-serif;
+}
+
+.link2 {
+    background-image: linear-gradient(to right, #8cc63e, #009444);
+    padding: 10px 40px;
+    color: white;
+}
+
+.contact-color {
+    color: #f7941e;
+    font-size: 18px;
+}
+
+.b-c-d {
+    border: 1px solid #f7941e;
+    padding: 5px 10px;
+}
+
+.songothon-border {
+    border: 1px solid #83a5f2;
+    height: 136px;
+    border-bottom: 7px solid #83a5f2;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.bg-text {
+    background-color: #27a8e1;
+    border-radius: 5px;
+}
+
+@media (max-width: 1199px) {
+    .clinic-feed {
+        width: 68%;
+    }
+}
+
+
+/* .............................. 
+           .............................. 
+            End doctor contact section  
+            .............................. 
+           ............................... */
+
+
+/* .............................. 
+           .............................. 
+            start footer section  
+            .............................. 
+           ............................... */
+
+.f1 a,
+.f2 a {
+    margin-left: 5px;
+}
+
+
+/* .............................. 
+           .............................. 
+             End footer section  
+            .............................. 
+           ............................... */
