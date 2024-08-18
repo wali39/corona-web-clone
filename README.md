@@ -1,6 +1,6 @@
 # Corona Web Clone
 
-## Corona.gov.bd web application cloned
+## A covid19 informative  site corona.gov.bd cloned
 
 <img src="https://res.cloudinary.com/dl1sztvng/image/upload/v1723945471/eu9tqzrbrll3awvmh0dj.png" width="931"/>
 
